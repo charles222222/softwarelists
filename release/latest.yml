@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
-  - url: Electron Grid App Setup 1.0.0.exe
-    sha512: +WztklzNikYVziUzqMXz+nmiwmGf6aXR2KFo2Gt9uJVVZJ0fOjsJcENXKho2ssfvEcJtcIn+o0HpjvQpbNLDXw==
-    size: 76932677
-path: Electron Grid App Setup 1.0.0.exe
-sha512: +WztklzNikYVziUzqMXz+nmiwmGf6aXR2KFo2Gt9uJVVZJ0fOjsJcENXKho2ssfvEcJtcIn+o0HpjvQpbNLDXw==
-releaseDate: '2025-05-16T09:28:28.289Z'
+  - url: Electron-Grid-App-Setup-1.0.0.exe
+    sha512: NJ1RGiY0TTkZJEa8AZl386zSKdu0dOXMlWk5N2V5w6XGWuHcO2Snos6M74ap7WsO4Dmtvc+OQItvHosvBDrfMA==
+    size: 76932290
+path: Electron-Grid-App-Setup-1.0.0.exe
+sha512: NJ1RGiY0TTkZJEa8AZl386zSKdu0dOXMlWk5N2V5w6XGWuHcO2Snos6M74ap7WsO4Dmtvc+OQItvHosvBDrfMA==
+releaseDate: '2025-05-16T12:11:17.933Z'
